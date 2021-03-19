@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet HD
+http://pfsv.io:80/988495934909/blendediptv.me/179
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN" group-title="Canais | Infantis",Cartoon Network HD
+http://pfsv.io:80/988495934909/blendediptv.me/139
+#EXTINF:-1 tvg-logo="http://z4.vc/i31" group-title="Canais | Filmes e Séries",CineMax HD
+http://pfsv.io:80/988495934909/blendediptv.me/303
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5" group-title="Canais | Notícias",CNN Brasil HD
+http://pfsv.io:80/988495934909/blendediptv.me/517
+#EXTINF:-1 tvg-logo="http://z4.vc/0Ww" group-title="Canais | Variedades",Comedy Central HD
+http://pfsv.io:80/988495934909/blendediptv.me/106
+#EXTINF:-1 tvg-logo="http://z4.vc/0v1" group-title="Canais | Documentários",Discovery Channel HD
+http://pfsv.io:80/988495934909/blendediptv.me/181
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png" group-title=" Canais | Esportes",ESPN Brasil HD
+http://pfsv.io:80/988495934909/blendediptv.me/259
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png" group-title=" Canais | Esportes",ESPN HD
+http://pfsv.io:80/988495934909/blendediptv.me/261
+#EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox HD
+http://pfsv.io:80/988495934909/blendediptv.me/304
+#EXTINF:-1 tvg-logo="http://z4.vc/GEc" group-title="Canais | Filmes e Séries",FX HD
+http://pfsv.io:80/988495934909/blendediptv.me/308
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ4" group-title="Canais | Notícias",Globo News HD
+http://pfsv.io:80/988495934909/blendediptv.me/516
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title=" Canais | Globo",Globo SP HD
+http://pfsv.io:80/988495934909/blendediptv.me/394
+#EXTINF:-1 tvg-logo="http://p6.vc/f0w" group-title="Canais | HBO",HBO 2 HD
+http://pfsv.io:80/988495934909/blendediptv.me/472
+#EXTINF:-1 tvg-logo="http://p6.vc/f0x" group-title="Canais | HBO",HBO Family HD
+http://pfsv.io:80/988495934909/blendediptv.me/473
+#EXTINF:-1 tvg-logo="http://p6.vc/f0y" group-title="Canais | HBO",HBO HD
+http://pfsv.io:80/988495934909/blendediptv.me/474
+#EXTINF:-1 tvg-logo="http://z4.vc/zPy" group-title="Canais | Filmes e Séries",Megapix HD
+http://pfsv.io:80/988495934909/blendediptv.me/310
+#EXTINF:-1 tvg-logo="http://z4.vc/F7u" group-title="Canais | Documentários",National Geographic HD
+http://pfsv.io:80/988495934909/blendediptv.me/191
+#EXTINF:-1 tvg-logo="http://z4.vc/VL0" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://pfsv.io:80/988495934909/blendediptv.me/311
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 2 HD
+http://pfsv.io:80/988495934909/blendediptv.me/531
+#EXTINF:-1 tvg-logo="http://z4.vc/l5p" group-title="Canais | Premiere",Premiere Clubes HD
+http://pfsv.io:80/988495934909/blendediptv.me/537
+#EXTINF:-1 tvg-logo="http://z4.vc/ao2" group-title="Canais | Filmes e Séries",Space HD
+http://pfsv.io:80/988495934909/blendediptv.me/313
+#EXTINF:-1 tvg-logo="http://z4.vc/AiX" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://pfsv.io:80/988495934909/blendediptv.me/320
+#EXTINF:-1 tvg-logo="http://p6.vc/Sc" group-title="Canais | Telecine",Telecine Action HD
+http://pfsv.io:80/988495934909/blendediptv.me/568
+#EXTINF:-1 tvg-logo="http://z4.vc/JWO" group-title="Canais | Telecine",Telecine Cult HD
+http://pfsv.io:80/988495934909/blendediptv.me/569
+#EXTINF:-1 tvg-logo="http://p6.vc/Se" group-title="Canais | Telecine",Telecine Fun HD
+http://pfsv.io:80/988495934909/blendediptv.me/570
+#EXTINF:-1 tvg-logo="http://p6.vc/Sf" group-title="Canais | Telecine",Telecine Pipoca HD
+http://pfsv.io:80/988495934909/blendediptv.me/572
+#EXTINF:-1 tvg-logo="http://p6.vc/Sg" group-title="Canais | Telecine",Telecine Premium HD
+http://pfsv.io:80/988495934909/blendediptv.me/573
+#EXTINF:-1 tvg-logo="http://p6.vc/Sh" group-title="Canais | Telecine",Telecine Touch HD
+http://pfsv.io:80/988495934909/blendediptv.me/571
+#EXTINF:-1 tvg-logo="http://z4.vc/94U" group-title="Canais | Filmes e Séries",TNT HD
+http://pfsv.io:80/988495934909/blendediptv.me/315
+#EXTINF:-1 tvg-logo="http://z4.vc/wGT" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://pfsv.io:80/988495934909/blendediptv.me/317
+#EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://pfsv.io:80/988495934909/blendediptv.me/319
